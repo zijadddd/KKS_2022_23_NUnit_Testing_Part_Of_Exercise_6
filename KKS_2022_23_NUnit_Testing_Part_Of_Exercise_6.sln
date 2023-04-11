@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 1", "KKS_2022_23_NUnit_Testing_Part_Of_Exercise_6\Exercise 1.csproj", "{FE0C2663-9E22-4CA1-B800-204174FA04F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 1", "Exercise 1\Exercise 1.csproj", "{FE0C2663-9E22-4CA1-B800-204174FA04F3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 2", "Exercise 2\Exercise 2.csproj", "{744A855D-C24D-4847-99DF-9FE848D0F1DA}"
 EndProject
