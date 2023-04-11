@@ -11,7 +11,7 @@ namespace Exercise_3 {
         }
 
         [Test]
-        public void CalculateSum_ReturnsZero_ForNotEmptyArray() {
+        public void CalculateSum_ReturnsSum_ForNotEmptyArray() {
             var calculator = new Calculator();
             Assert.That(calculator.CalculateSum(new int[] { 1, 2, 3 }), Is.EqualTo(6));
         }
@@ -23,7 +23,7 @@ namespace Exercise_3 {
         }
 
         [Test]
-        public void ReverseString_ReturnsEmptyString_ForString() {
+        public void ReverseString_ReturnsReversedString_ForString() {
             var stringHelper = new StringHelper();
             Assert.That(stringHelper.ReverseString("abc"), Is.EqualTo("cba"));
         }
